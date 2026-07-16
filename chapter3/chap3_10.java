@@ -1,3 +1,4 @@
+package chapter3;
 public class chap3_10 {
   public static void main(String[] args) {
     sayhello2("いろは");

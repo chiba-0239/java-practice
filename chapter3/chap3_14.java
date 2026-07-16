@@ -1,3 +1,4 @@
+package chapter3;
 import java.util.Random;
 public class chap3_14 {
   public static void main(String[] args) {

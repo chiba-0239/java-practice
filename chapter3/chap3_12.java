@@ -1,3 +1,4 @@
+package chapter3;
 public class chap3_12 {
   public static void main(String[] args) {
     double ans = postTaxPrice(980);
